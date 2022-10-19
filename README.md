@@ -1,4 +1,4 @@
-- 👋🗿 Hi, I’m @PatrikEstudante
+- 👋🗿 ola, eu sou @PatrikEstudante
 - meu email de contato é patrik.moreira@escola.pr.gov.br 
 - 👀 estou interessado em aprender programação
 - 🌱 estou aprendendo recentemente JavaScript e Scratch
